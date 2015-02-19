@@ -18,7 +18,7 @@ SAS Beeswarm macro created by Shane Rosanbalm of Rho, Inc. 2014
    -  The optimal range for the grouping axis is min=0.5 and max="number of groups"+0.5.
    -  If you are going to produce a plot with non-default dimensions, axis ranges, or marker sizes, 
       use rmarkers, gmarkers, rmin, and rmax to correct (more below).
-
+ 
 
 *---------- required arguments ----------*
 
