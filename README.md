@@ -1,6 +1,7 @@
 # sas-beeswarm
 A SAS macro for producing a beeswarm plot (i.e., a strip plot with non-random jittering). 
 <br>
+![sas beeswarm plot](https://github.com/srosanba/sas-beeswarm/blob/master/BeeswarmPlot.png)
 <br>
 For more details on producing beeswarm plots in SAS, please visit http://graphics.rhoworld.com/tools/beeswarm/.
 <br>
